@@ -19,18 +19,43 @@
 *A showcase of my creative and technical works*
 
 ### Healthy Habits Hero
-Buana is an educational app created during my time at the Apple Developer Academy. It promotes sustainable living through gamified lessons and interactive challenges. My role included both design and development, emphasizing user experience, intuitive navigation, and meaningful content.
+<p align="center">
+  <img src="./assets/3H Trophies.png" alt="Healthy Habits Hero Trophies" width="32%">
+  <img src="./assets/3H Speaker @America.png" alt="@America presenter pic" width="32%">
+  <img src="./assets/3H demo atam.png" alt="Showcase to @America audiences" width="32%">
+</p>
+Healthy Habits Hero is my 2025 Swift Student Challenge Submission.  Healthy Habits Hero addresses the serious consequences of late health diagnoses by making health education engaging for children through interactive mini-games and an AR-powered certificate reward system.
 
 ### Buana
+<p align="center">
+  <img src="./assets/buana.png" alt="Buana Cover" width="32%">
+  <img src="./assets/buanaapp.png" alt="Buana UI" width="32%">
+  <img src="./assets/buanateam.jpg" alt="Buana Team" width="32%">
+</p>
 Buana is an educational app created during my time at the Apple Developer Academy. It promotes sustainable living through gamified lessons and interactive challenges. My role included both design and development, emphasizing user experience, intuitive navigation, and meaningful content.
 
 ### BetterStudy
+<p align="center">
+  <img src="./assets/Betterstudy Pomodoro.png" alt="BetterStudy Pomodoro Screen" width="32%">
+  <img src="./assets/Betterstudy Home.png" alt="BetterStudy Home Screen" width="32%">
+  <img src="./assets/Betterstudy Affirmation.png" alt="BetterStudy Affirmation Screen" width="32%">
+</p>
 BetterStudy is an app designed to bridge the gap between mental health and academic performance. Developed as a solution to the limitations of traditional study aids, BetterStudy offers an approach that combines study strategies with mental health support. My role in the project involved both design and development, focusing on creating a user-friendly experience, seamless navigation, and content that addresses both well-being and academic success.
 
 ### Muemo
+<p align="center">
+  <img src="./assets/Muemo Login.png" alt="Muemo Login Screen" width="32%">
+  <img src="./assets/Muemo Demo Happy.png" alt="Muemo Emotion Detection Demo" width="32%">
+  <img src="./assets/Muemo Preference.png" alt="Muemo Preference Screen" width="32%">
+</p>
 Muemo is a web app made by my team that recommends music based on a user's emotional state, utilizing Deepface for a deeply personal listening experience. our team created Muemo with an emphasis on user privacy, offering camera toggle and distinct tracking modes, alongside customizable preferences. This project was a significant learning experience in designing with empathy, balancing technical complexity (like emotion detection) with real-world sensitivity, and creating an adaptive and respectful user experience.
 
 ### PennyPlanner
+<p align="center">
+  <img src="./assets/PennyPlanner Overview.png" alt="PennyPlanner Overview Screen" width="32%">
+  <img src="./assets/PennyPlanner UI.png" alt="PennyPlanner UI Detail" width="32%">
+  <img src="./assets/PennyPlanner Home.png" alt="PennyPlanner Home Screen" width="32%">
+</p>
 PennyPlanner is a financial management smartphone application concept, designed to address challenges of traditional money management. It simplifies budgeting, expense tracking, and goal setting with features like automatic categorization and robust encryption for data security. This project highlights my skills in UI/UX design, demonstrating my ability to create tools that empower users to manage their finances effectively and plan for a secure future.
 
 ---
@@ -81,6 +106,20 @@ PennyPlanner is a financial management smartphone application concept, designed 
 ## 🎉 Exciting News
 
 > I’m beyond excited to announce that I’ve been accepted into the **Apple Developer Academy @Bali** for **2026**! The journey to this point hasn’t been easy, but I’m truly proud of this milestone. I look forward to learning so much, growing with amazing people, and achieving even more through this opportunity.
+
+---
+
+## 📄 Download My Work
+Access my CV for a detailed overview of my experience and my portfolio for visual examples of my projects.
+
+<p align="center">
+  <a href="./assets/cv.pdf" download>
+    <img src="https://img.shields.io/badge/Download-CV-8A2BE2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV"/>
+  </a>
+  <a href="#projects">
+    <img src="https://img.shields.io/badge/View-Portfolio-1E90FF?style=for-the-badge&logo=amp&logoColor=white" alt="View Portfolio"/>
+  </a>
+</p>
 
 ---
 
